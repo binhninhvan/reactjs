@@ -1,0 +1,35 @@
+1.Cai nodejs: 
+	D:\binhnt\ReactJs\reactjs03>node -v
+	v10.15.1
+2. De chay reacjs phai tai reacjs ve: Tao 1 thu muc cai reactjs
+	D:\binhnt\ReactJs\reactjs03>npm install -g create-react-app
+	
+3. Tao 1 project reactjs:
+	D:\binhnt\ReactJs\reactjs03>create-react-app vd1
+	
+4. Vao thu muc vd1 va chay lenh De start he thong: npm start 
+5. De dong gui project : npm run build
+6. Tai xamp ve cai va deploy ung dung. Chay Apache
+7. Tao thu muc ung dung cua minh trong thu muc: xampp\htdocs. VI DU tao thu muc userreactjs
+8. Copy thu muc build cua project vao thu muc nay
+9. Tao vurtual hot vi ung dung phai chay qua no
+	- Them cau hinh vao hot cua window: 127.0.0.1 test.com
+	- Vao thu muc:  xampp\apache\conf\extra mo file: httpd-vhosts.conf them doan cau hinh:
+		<VirtualHost *:80>
+			DocumentRoot C:/xampp/htdocs/userreactjs
+			ServerName www.test.com
+		</VirtualHost>
+10.Mo file: C:\xampp\apache\conf\httpd.conf de them:
+	# Virtual hosts
+	Include conf/extra/httpd-vhosts.conf
+
+11. Cach chay khac:
+    Vao thu muc build cua project chay lenh: npm install -g serve
+  Sau do chay lenh: serve -s 
+  OR lenh : serve -s build    :neu khong dung ngoai thu muc build
+	
+npm install uuid
+
+
+Tool chuyen code HTML sang code reactjs:
+https://magic.reactjs.net/htmltojsx.htm

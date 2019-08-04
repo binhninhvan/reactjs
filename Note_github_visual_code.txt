@@ -1,0 +1,9 @@
+1. Tao tai khoan github.com
+2.Cai dat git scm (de window hieu code cua github), download ve cai
+3.Cac buoc upload code len github
+	3.1: tao 1 repo tren github.com vi du: reactjs
+	3.2: Copy dia chi "git remote add origin https://github.com/binhninhvan/reactjs.git" vao visualcode de upload 
+	3.3: chay lenh git init de khoi tao
+	3.4: chay lenh : git remote add origin https://github.com/binhninhvan/reactjs.git
+	3.5: de upload file len: git add *
+	

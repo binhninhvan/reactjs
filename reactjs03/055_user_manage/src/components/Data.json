@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Pacific rim",
+        "tel": "0999999933",
+        "Permission": 1
+    },
+    {
+        "id": 2,
+        "name": "Pacific Tim 2",
+        "tel": "0999999933",
+        "Permission": 2
+    },
+    {
+        "id": 3,
+        "name": "Pacific Sim 3",
+        "tel": "0999999933",
+        "Permission": 3
+    },
+    {
+        "id": 4,
+        "name": "Pacific VN 4",
+        "tel": "0999999933",
+        "Permission": 1
+    },
+    {
+        "id": 5,
+        "name": "Pacific USA 5",
+        "tel": "0999999933",
+        "Permission": 2
+    }
+]

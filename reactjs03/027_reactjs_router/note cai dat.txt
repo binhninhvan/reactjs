@@ -1,0 +1,13 @@
+Cai dat thu vien cho router trong thu muc prroject: npm install react-router-dom
+Xem cach dung router trong trang : https://reacttraining.com/react-router/web/guides/quick-start
+
+
+
+Username: hoangcd@ciber.vn1 
+Password: r06iv9 
+Username: ngocdm@ciber.vn1 
+Password: 6z3sho 
+Username: hoantm@ciber.vn1 
+Password: j21xht 
+Username: thanhlt@ciber.vn1 
+Password: gkj590 
